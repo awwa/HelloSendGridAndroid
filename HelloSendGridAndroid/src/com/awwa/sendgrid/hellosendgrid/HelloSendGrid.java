@@ -1,4 +1,5 @@
 package com.awwa.sendgrid.hellosendgrid;
+
 import java.io.IOException;
 import java.util.List;
 import java.util.Properties;
@@ -23,7 +24,7 @@ import jp.co.flect.sendgrid.model.Profile;
 import jp.co.flect.sendgrid.model.Statistic;
 import jp.co.flect.sendgrid.model.Unsubscribe;
 import jp.co.flect.sendgrid.model.WebMail;
-import android.util.Log;
+
 
 
 public class HelloSendGrid {
