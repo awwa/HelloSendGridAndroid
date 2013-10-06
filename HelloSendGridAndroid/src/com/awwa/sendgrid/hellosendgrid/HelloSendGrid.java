@@ -27,7 +27,7 @@ import jp.co.flect.sendgrid.model.WebMail;
 
 
 
-public class HelloSendGrid {
+public class HelloSendGrid { 
     @SuppressWarnings("unused")
     private static final String TAG = HelloSendGrid.class.getSimpleName();
     private final HelloSendGrid self = this;
