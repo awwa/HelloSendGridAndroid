@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- Send SMTP -->
+    <Preference
+        android:key="pref_key_send_smtp"
+        android:title="Send SMTP" />
+
+    <!-- Web API -->
+    <Preference
+        android:key="pref_key_web_api"
+        android:title="Web API" />
+    
+    <!-- Print Bounces -->
+    <Preference
+        android:key="pref_key_print_bounces"
+        android:title="Print Bounces" />
+    
+    <!-- Print Unsubscribes -->
+    <Preference
+        android:key="pref_key_print_unsubscribes"
+        android:title="Print Unsubscribes" />
+
+    <!-- Add Unsubscribes -->
+    <Preference
+        android:key="pref_key_add_unsubscribes"
+        android:title="Add Unsubscribes" />
+
+    <!-- Delete Unsubscribes -->
+    <Preference
+        android:key="pref_key_delete_unsubscribes"
+        android:title="Delete Unsubscribes" />
+
+    <!-- Print Statistics -->
+    <Preference
+        android:key="pref_key_print_statistics"
+        android:title="Print Statistics" />
+
+    <!-- Print Profile -->
+    <Preference
+        android:key="pref_key_print_profile"
+        android:title="Print Profile" />
+</PreferenceScreen>
